@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>189803214954-dfqpj7o6nf7kcpa5trt8a9p2du2iadp0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.189803214954-dfqpj7o6nf7kcpa5trt8a9p2du2iadp0</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD-y6ow5kHCzrUY_a5GBgQY97FA4ycoPec</string>
+	<key>GCM_SENDER_ID</key>
+	<string>189803214954</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.luwa.chat</string>
+	<key>PROJECT_ID</key>
+	<string>chatmodelo-e5e7d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chatmodelo-e5e7d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:189803214954:ios:3c60b964f10b76e2ab7213</string>
+</dict>
+</plist>
